@@ -3,5 +3,4 @@ pandas
 pycaret
 plotly
 openai
-Json
 gpt-4o
